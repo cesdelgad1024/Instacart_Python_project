@@ -117,6 +117,6 @@ The project is organized into several Jupyter Notebooks, each focusing on differ
 **Cesar S. Delgado**
 - Python enthusiast and data analyst.
 - Contact: -
-- LinkedIn: [linkedin.com/in/cesar-delgado-981163249](https://linkedin.com/in/cesarsdelgado)
+- LinkedIn: [[linkedin.com/in/cesar-delgado-981163249]](https://www.linkedin.com/in/cesar-delgado-981163249/)
 
 Feel free to explore, learn, or contribute!
